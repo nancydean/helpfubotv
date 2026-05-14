@@ -3,9 +3,7 @@ How to Access and Manage Your Fubo TV Login Account?
 
 Fubo TV is one of the most trusted and popular live television streaming services available today. Known for its extensive sports coverage, high-quality streaming, and user-friendly interface, Fubo TV offers an exciting and convenient way to watch live TV without a traditional cable subscription. Whether you are using it for live sports, breaking news, entertainment channels, or on-demand content, logging into your Fubo TV account is the first step to accessing all of these features.
 
-.. image:: _static/logo.png
-   :alt: Fubo TV Logo
-   :align: center
+
 
 If you are new to Fubo TV or encountering login issues, do not worry. In this guide, we will walk you through the process of logging into your Fubo TV account step by step. Whether you are using a computer, smartphone, tablet, or smart TV, the process is simple and quick.
 
