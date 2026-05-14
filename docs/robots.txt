@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpfubotv.readthedocs.io/en/latest/
